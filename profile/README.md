@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-Exciting things happen here! :)
+Welcome to 
+
+# Athletics Data Science & AI Lab
+Where we make everything happen! :)
 <!--
 
 **Here are some ideas to get you started:**
